@@ -1,0 +1,6 @@
+# python environment
+/backend/scheduler_app/dev-env/
+__pycache__
+
+*.sqlite3
+migrations
